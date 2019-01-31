@@ -1,0 +1,19 @@
+{
+  "name": "serverexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas2502/create-server-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas2502/create-server-express/issues"
+  },
+  "homepage": "https://github.com/lucas2502/create-server-express#readme"
+}
